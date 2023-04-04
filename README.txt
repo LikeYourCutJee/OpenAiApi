@@ -1,0 +1,1 @@
+When using, you must also add Newtonsoft.Json(13.0.3), RestSharp(110.0.0)

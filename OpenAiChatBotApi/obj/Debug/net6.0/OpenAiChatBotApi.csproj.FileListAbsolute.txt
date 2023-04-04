@@ -1,0 +1,24 @@
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.csproj.AssemblyReference.cache
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.AssemblyInfoInputs.cache
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.AssemblyInfo.cs
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.csproj.CoreCompileInputs.cache
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\bin\Debug\net6.0\OpenAiChatBotApi.deps.json
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\bin\Debug\net6.0\OpenAiChatBotApi.dll
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\bin\Debug\net6.0\OpenAiChatBotApi.pdb
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.dll
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\refint\OpenAiChatBotApi.dll
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.pdb
+C:\Users\fbest\source\repos\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\ref\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\bin\Debug\net6.0\OpenAiChatBotApi.deps.json
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\bin\Debug\net6.0\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\bin\Debug\net6.0\OpenAiChatBotApi.pdb
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.csproj.AssemblyReference.cache
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.AssemblyInfoInputs.cache
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.AssemblyInfo.cs
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.csproj.CoreCompileInputs.cache
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\refint\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\OpenAiChatBotApi.pdb
+C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Debug\net6.0\ref\OpenAiChatBotApi.dll
