@@ -22,3 +22,15 @@ C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotAp
 C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Release\net6.0\refint\OpenAiChatBotApi.dll
 C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.pdb
 C:\Users\fbest\OneDrive\Рабочий стол\OpenAiChatBotApi\OpenAiChatBotApi\obj\Release\net6.0\ref\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\bin\Release\net6.0\OpenAiChatBotApi.deps.json
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\bin\Release\net6.0\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\bin\Release\net6.0\OpenAiChatBotApi.pdb
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.csproj.AssemblyReference.cache
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.AssemblyInfoInputs.cache
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.AssemblyInfo.cs
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.csproj.CoreCompileInputs.cache
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\refint\OpenAiChatBotApi.dll
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\OpenAiChatBotApi.pdb
+C:\Users\fbest\OneDrive\Рабочий стол\GIT\OpenAaApi\OpenAiApi\OpenAiChatBotApi\obj\Release\net6.0\ref\OpenAiChatBotApi.dll

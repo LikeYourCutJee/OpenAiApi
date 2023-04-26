@@ -14,13 +14,13 @@ namespace OpenAiChatBotApi.ChatBots.Gpt
 {
     public class ChatGptBot : IChatBot
     {
-        protected GptModels Model;
-        protected string ApiKey;
-        protected string Stop;
-        protected int Temperarure;
-        protected int N;
-        protected int Top_p;
-        protected int Max_tokens;
+        public GptModels Model;
+        public string ApiKey;
+        public string Stop;
+        public int Temperarure;
+        public int N;
+        public int Top_p;
+        public int Max_tokens;
 
         public GptContextHistory ConversationHistory { get; set; }
 

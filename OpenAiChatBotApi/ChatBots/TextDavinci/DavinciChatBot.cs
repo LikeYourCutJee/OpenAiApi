@@ -9,13 +9,13 @@ namespace OpenAiChatBotApi.ChatBots.TextDavinci
 {
     public class DavinciChatBot : IChatBot
     {
-        protected DavinciBotModels Model;
-        protected string ApiKey;
-        protected string Stop;
-        protected int Temperarure;
-        protected int N;
-        protected int Top_p;
-        protected int Max_tokens;
+        public DavinciBotModels Model;
+        public string ApiKey;
+        public string Stop;
+        public int Temperarure;
+        public int N;
+        public int Top_p;
+        public int Max_tokens;
 
         public IDavinciPrompt ConversationHistory { get; set; }
 
